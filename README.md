@@ -8,6 +8,11 @@ The aim of this project showcase the following:
 
 <ul>
     <li><b>Relationships betweeen models</b></li>
+    <li><b>Authentication and Authorization</b></li>
+    <li><b>CRUD functionality</b></li>
+    <li><b>Soft deletes in Laravel</b></li>
+    <li><b>Mail Functionality</b></li>
+    <li><b>Use of MySQL</b></li>
 </ul>
 
 
